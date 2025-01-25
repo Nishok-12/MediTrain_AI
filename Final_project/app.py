@@ -60,6 +60,7 @@ class PatRecord(db.Model):
 # Routes
 @app.route('/')
 def home():
+    session.clear()
     return render_template('home.html')
 
 @app.route('/lpage')
@@ -661,7 +662,6 @@ def profile():
                 data = tuple((row[0], row[1], row[2], row[3]) for row in rows)
 
                 return render_template('profile.html',pdata=pdata,data=data,headings=headings)
-
 
             elif role=='Doctor':
 
