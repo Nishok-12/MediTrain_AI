@@ -127,6 +127,6 @@ To run MediTrain AI locally, ensure you have the following:
 
 This project is licensed under the MIT License.
 
----
+----
 
-## Enjoy using MediTrain AI and let us know if you have suggestions or encounter issues!
+#### Enjoy using MediTrain AI and let us know if you have suggestions or encounter issues!
