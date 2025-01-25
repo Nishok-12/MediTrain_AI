@@ -86,18 +86,18 @@ To run MediTrain AI locally, ensure you have the following:
 
 * **Flask** : A lightweight Python web framework for building web applications and APIs.
 * **Flask-SQLAlchemy** : Adds SQLAlchemy support to Flask, making it easier to interact with databases.
-* **Flask-Migrate** : Handles SQLAlchemy database migrations for Flask applications, simplifying the management of changes to the database schema.
-* **Pandas** : A powerful library for data manipulation and analysis, particularly useful for handling structured data like CSV, Excel, or SQL databases.
+* **Flask-Migrate** : Handles database migrations for Flask applications, simplifying the management of changes to the database schema.
+* **Pandas** : A powerful library for data manipulation and analysis, particularly useful for handling structured data like CSV, Excel.
 * **Fuzzywuzzy** : A library for string matching and fuzzy searching, often used for comparing text and determining similarities between them.
-* **Scikit-learn** : A machine learning library that provides simple and efficient tools for data mining and data analysis, including Machine Learning Algorithms. 
-* **Joblib** : A library for serializing Python objects, particularly used for saving and loading machine learning models and large datasets efficiently.
+* **Scikit-learn** : A machine learning library that provides simple and efficient tools for data mining and data analysis,and ML Algorithms. 
+* **Joblib** : A library for serializing Python objects, used for saving and loading machine learning models and large datasets efficiently.
 
 ## Models Used
 
- **No Use Of Pretrained Models** : No Pre-Trained model is used in this project.
- >**Build from Scratch** : All models used in this project are build from scratch.
->* **Logestic Regression** : Used for prediction of Diseases,Treatments and Symptoms.
->* **Random Forest Classifier** : Used for prediction of Treatments.
+- **No Use Of Pretrained Models** : No Pre-Trained model is used in this project.
+- **Build from Scratch** : All models used in this project are build from scratch.
+* **Logestic Regression** : Used for prediction of Diseases,Treatments and Symptoms.
+* **Random Forest Classifier** : Used for prediction of Treatments.
 
 ## Dataset Used
 
