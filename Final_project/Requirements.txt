@@ -1,0 +1,8 @@
+flask
+flask_sqlalchemy
+flask_migrate
+pandas
+fuzzywuzzy
+scikit-learn
+joblib
+python
