@@ -14,7 +14,7 @@ between technology and healthcare. Step into the future of healthcare with MediT
 * **Medical Focus** : Tailored to assist with general medical questions while avoiding direct diagnoses.
 * **Flask UI** : Interactive web-based interface for seamless user interaction, using HTML, CSS and JavaScript for responsiveness and styling.
 * **Empathetic Responses** : Ensures responses are clear, considerate, and accurate.
-* **Real-Time Query Handling** : Processes and responds to medical queries quickly using Groq's AI models for fast, accurate answers.
+* **Real-Time Query Handling** : Processes and responds to medical queries quickly using AI models for fast, accurate answers.
 * **Personalized Guidance** : Adapts responses based on user interactions, offering relevant insights for recurring topics or conditions.
 * **Secure and Private** : Ensures user privacy with secure handling of interactions and secure storage of personal health data.
 * **Dual Purpose ChatBot** : Meditrain AI has both doctor and patient Chat facilities.
