@@ -59,9 +59,8 @@ To run MediTrain AI locally, ensure you have the following:
    ```
   MediTrain-AI/                                  # Main Project Folder 
   │
-  ├── Models/                                    # Folder for Code of Model training,saving and testing 
-  │   ├── Doctor Model/                          # Folder for Doctor_chat-related model files
-  │   └── Patient Model/                         # Folder for Patient_chat-related model files
+  ├── Agile Documentation/                       # Folder for Agile Documents
+  │   └── Agile Document.xlsx                    # Main Excel file containing Sprint details of this Project  
   │
   ├── Datasets/                                  # Folder for the Datasets used in the Project
   │   ├── Actual_doenloaded_datasets/            # Folder for actual downloaded datasets from Kaggle
@@ -79,8 +78,9 @@ To run MediTrain AI locally, ensure you have the following:
   │   └── app.py                                 # Main Flask application script 
   │
   │
-  ├── Agile Documentation/                       # Folder for Agile Documents
-  │   └── Agile Document.xls                     # Main Excel file containing Sprint details of this Project 
+  ├──Models/                                     # Folder for Code of Model training,saving and testing 
+  │   ├── Doctor Model/                          # Folder for Doctor_chat-related model files
+  │   └── Patient Model/                         # Folder for Patient_chat-related model files
   │
   ├── LICENSE                                    # MIT License for the project            
   └── README.md                                  # Project documentation
