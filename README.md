@@ -96,18 +96,18 @@ To run MediTrain AI locally, ensure you have the following:
 * **Scikit-learn** : A machine learning library that provides simple and efficient tools for data mining and data analysis,and ML Algorithms. 
 * **Joblib** : A library for serializing Python objects, used for saving and loading machine learning models and large datasets efficiently.
 
-## Models Used
+## Models Utilized
 
 - **No Use Of Pretrained Models** : No Pre-Trained model is used in this project.
 - **Build from Scratch** : All models used in this project are build from scratch.
 * **Logistic Regression** : Used for prediction of Diseases,Treatments and Symptoms.
 * **Random Forest Classifier** : Used for prediction of Treatments.
 
-## Dataset Used
+## Dataset Utilized
 
  **Kaggle** : Datasets are taken from kaggle ( [Dataset Link](https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset/data)).
 
-## Database Used
+## Database Utilized
 
 **Sqlite3** : A lightweight, file-based relational database engine, ideal for small to medium-sized applications. It is self-contained, serverless, and requires no separate setup, making it perfect for quickly prototyping and managing local data in your project.
 
