@@ -78,6 +78,10 @@ To run MediTrain AI locally, ensure you have the following:
   │   ├── Requirements.txt                       # List of required Python packages
   │   └── app.py                                 # Main Flask application script 
   │
+  │
+  ├── Agile Documentation/                       # Folder for Agile Documents
+  │   └── Agile Document.xls                     # Main Excel file containing Sprint details of this Project 
+  │
   ├── LICENSE                                    # MIT License for the project            
   └── README.md                                  # Project documentation
    ```
@@ -96,7 +100,7 @@ To run MediTrain AI locally, ensure you have the following:
 
 - **No Use Of Pretrained Models** : No Pre-Trained model is used in this project.
 - **Build from Scratch** : All models used in this project are build from scratch.
-* **Logestic Regression** : Used for prediction of Diseases,Treatments and Symptoms.
+* **Logistic Regression** : Used for prediction of Diseases,Treatments and Symptoms.
 * **Random Forest Classifier** : Used for prediction of Treatments.
 
 ## Dataset Used
