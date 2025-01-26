@@ -649,9 +649,9 @@ def profile():
                 "location": session.get('location'),
                 "image":ren,
                 "role":"Doctor",
-                "hist":"Patient",
                 "roleas":role
                 }
+
 
                 headings=("Date","Time","Symptoms","Diagonised Disesase")
                 
@@ -682,9 +682,9 @@ def profile():
                     "location": session.get('location'),
                     "image":ren,
                     "role":"Patient",
-                    "hist":"Diagonise",
                     "roleas":role
                     }
+
 
                     headings=("Date","Time","Symptoms","Diagonised Disesase","Accuracy Score")
 
