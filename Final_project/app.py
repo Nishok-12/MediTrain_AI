@@ -636,7 +636,7 @@ def profile():
                 if gen=="Male":
                     ren="https://www.freeiconspng.com/uploads/male-icon-32.png"
                 else:
-                    ren="https://png.pngtree.com/png-vector/20240121/ourmid/pngtree-business-woman-icon-vector-illustration-png-image_11499929.png"
+                    ren="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXSTblEVkkdJh15jlAbC3FpvuzCKb1o-pQQA&s"
 
                 pdata = {
                 "patient_id": session.get('pid'),
@@ -649,9 +649,9 @@ def profile():
                 "location": session.get('location'),
                 "image":ren,
                 "role":"Doctor",
+                "url":url_for('index'),
                 "roleas":role
                 }
-
 
                 headings=("Date","Time","Symptoms","Diagonised Disesase")
                 
@@ -669,7 +669,7 @@ def profile():
                     if gen=="Male":
                         ren="https://www.freeiconspng.com/uploads/male-icon-32.png"
                     else:
-                        ren="https://png.pngtree.com/png-vector/20240121/ourmid/pngtree-business-woman-icon-vector-illustration-png-image_11499929.png"
+                        ren="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXSTblEVkkdJh15jlAbC3FpvuzCKb1o-pQQA&s"
 
                     pdata = {
                     "patient_id": session.get('pid'),
@@ -682,9 +682,9 @@ def profile():
                     "location": session.get('location'),
                     "image":ren,
                     "role":"Patient",
+                    "url":url_for('pindex'),
                     "roleas":role
                     }
-
 
                     headings=("Date","Time","Symptoms","Diagonised Disesase","Accuracy Score")
 
