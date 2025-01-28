@@ -27,9 +27,9 @@ between technology and healthcare. Step into the future of healthcare with MediT
 To run MediTrain AI locally, ensure you have the following:
 
 * Python 3.8+
-* Libraries specified in `Requirements.txt`
+* Libraries specified in `requirements.txt`
 
-## Installation
+## Manual Installation
 
 1. Clone this repository :
    ```bash
@@ -39,7 +39,7 @@ To run MediTrain AI locally, ensure you have the following:
 2. Create a virtual environment and activate it :
    ```bash
    python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   source venv\Scripts\activate  # On LInux: venv/bin/activate
    ```
 3. Install the dependencies :
    ```bash
@@ -54,6 +54,11 @@ To run MediTrain AI locally, ensure you have the following:
    ```
 2. Open the application in your browser (default: [http://localhost:9999](http://localhost:9999/)).
 3. Interact with MediTrain AI by typing your medical queries in the input box.
+
+## Online hosting
+
+* **Render** : Render is a modern cloud web service that allows developers to host websites, APIs, and apps effortlessly. It provides features like **auto-deploy from Git, free SSL, custom domains, managed databases**, and scalability options, catering to both static and dynamic applications with an intuitive interface.
+*  Enjoy Accessing my MediTrain AI seamlessly at the link [MediTrain_AI](https://meditrain-ai-v3mj.onrender.com).
 
 ## Project Structure
    ```
