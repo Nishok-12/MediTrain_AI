@@ -43,7 +43,7 @@ To run MediTrain AI locally, ensure you have the following:
    ```
 3. Install the dependencies :
    ```bash
-   pip install -r Requirements.txt
+   pip install -r requirements.txt
    ```
 
 ## Usage
@@ -74,7 +74,7 @@ To run MediTrain AI locally, ensure you have the following:
   |   |   └──model/                              # Floder for Saved model files to load into Flask app
   |   | 
   │   ├── templates/                             # Folder for HTML templates
-  │   ├── Requirements.txt                       # List of required Python packages
+  │   ├── requirements.txt                       # List of required Python packages
   │   └── app.py                                 # Main Flask application script 
   │
   │
