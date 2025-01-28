@@ -39,7 +39,7 @@ To run MediTrain AI locally, ensure you have the following:
 2. Create a virtual environment and activate it :
    ```bash
    python -m venv venv
-   source venv\Scripts\activate  # On LInux: venv/bin/activate
+   source venv\Scripts\activate  # On Linux: venv/bin/activate
    ```
 3. Install the dependencies :
    ```bash
