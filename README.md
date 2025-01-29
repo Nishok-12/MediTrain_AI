@@ -46,7 +46,7 @@ To run MediTrain AI locally, ensure you have the following:
    pip install -r requirements.txt
    ```
 
-## Usage
+## Running Manually
 
 1. Run the application :
    ```bash
@@ -58,7 +58,16 @@ To run MediTrain AI locally, ensure you have the following:
 ## Online hosting
 
 * **Render** : Render is a modern cloud web service that allows developers to host websites, APIs, and apps effortlessly. It provides features like **auto-deploy from Git, free SSL, custom domains, managed databases**, and scalability options, catering to both static and dynamic applications with an intuitive interface.
+
+## Access Online
+
 *  Enjoy Accessing my MediTrain AI seamlessly at the link [MediTrain_AI](https://meditrain-ai-v3mj.onrender.com).
+**(OR)**
+* Copy paste the below link in your browser
+     ```bash
+   https://meditrain-ai-v3mj.onrender.com
+   ```
+  
 
 ## Project Structure
    ```
