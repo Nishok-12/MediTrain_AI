@@ -85,7 +85,7 @@ To run MediTrain AI locally, ensure you have the following:
   │   ├── static/                                # Folder for static files
   |   |   ├── css/                               # Folder for CSS files
   |   |   ├── dataset/                           # Folder for live used datasets
-  |   |   └──model/                              # Floder for Saved model files to load into Flask app
+  |   |   └── model/                             # Floder for Saved model files to load into Flask app
   |   | 
   │   ├── templates/                             # Folder for HTML templates
   │   ├── app.py                                 # Main Flask application script
