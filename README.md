@@ -92,7 +92,7 @@ To run MediTrain AI locally, ensure you have the following:
   │   └── requirements.txt                       # List of required Python packages
   │
   │
-  ├──Models/                                     # Folder for Code of Model training,saving and testing 
+  ├── Models/                                    # Folder for Code of Model training,saving and testing 
   │   ├── Doctor Model/                          # Folder for Doctor_chat-related model files
   │   └── Patient Model/                         # Folder for Patient_chat-related model files
   │
